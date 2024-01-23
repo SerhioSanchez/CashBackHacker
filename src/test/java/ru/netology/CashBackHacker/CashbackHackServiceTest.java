@@ -2,7 +2,6 @@ package ru.netology.CashBackHacker;
 
 import org.junit.Test;
 import ru.netology.ru.netology.CashBackHacker.CashbackHackService;
-
 import static org.junit.Assert.*;
 public class CashbackHackServiceTest {
 
